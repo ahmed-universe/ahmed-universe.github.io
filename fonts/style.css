@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "blogger";
+    src: url(./blogger.otf);
+}
+
+@font-face {
+    font-family: "truly";
+    src: url(./truly.ttf);
+}
+
+@font-face {
+    font-family: "digital";
+    src: url(./digital.otf);
+}
+
+@font-face {
+    font-family: "game";
+    src: url(./game.ttf);
+}
+
+@font-face {
+    font-family: "candy";
+    src: url(./candy.ttf);
+}
+
+@font-face {
+    font-family: "bariol";
+    src: url(./bariol.ttf);
+}
